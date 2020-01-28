@@ -5,7 +5,7 @@
 Tooksome helps Office Managers and Homemakers know what's in stock,
 order it, and be alerted before it runs out.
 
-![Tooksome logo](assets/tooksone_logo.svg)
+![Tooksome logo](assets/tooksome_logo.svg)
 
 It stinks when you run out of basic supplies: you have to make a
 special trip, or pay for faster shipping, or at the very least stop
