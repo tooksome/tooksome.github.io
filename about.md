@@ -1,4 +1,11 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Tooksome is a work in progress.
 
+
+## Team
+
+Flip Kromer (mrflip.com) is an experienced CTO and entrepreneur. His
+prior businesses are Infochimps and Vigilante Gaming Restaurant. He is
+on the board of ATX Hackerspace, and advises a range of startups at
+Capital Factory and independently.
