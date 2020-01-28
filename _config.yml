@@ -6,8 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Tooksome: Easy Inventory and Ordering
-description: Tooksome helps Office Managers and Homemakers know what's in stock, order it, and be alerted before it runs out.
+title: |
+  Tooksome: Easy Inventory and Ordering
+description: |
+  Tooksome helps Office Managers and Homemakers know what's in stock,
+  order it, and be alerted before it runs out.
+  
 github_username: jph00
 
 # Email and twitter are optional:
