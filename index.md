@@ -29,7 +29,7 @@ list.
 
 ## Support Tooksome
 
-To help support tooksome, [click this link](https://amzn.to/38Xnpum) and buy a thing from Amazon.
+To help support tooksome, [click this link](https://amzn.to/38Xnpum) and buy [toilet paper](https://amzn.to/3c9yj2e) or [a good book](https://amzn.to/2SV81sC) from Amazon.
 
 ## Coming Soon
 
