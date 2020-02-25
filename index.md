@@ -27,6 +27,10 @@ installed. Slack integration lets your coworkers add an item to
 Tooksome so you don't have to stop working to add to your shopping
 list.
 
+## Support Tooksome
+
+To help support tooksome, [click this link](https://amzn.to/38Xnpum) and buy a thing from Amazon.
+
 ## Coming Soon
 
 To join our mailing list, email flip@tooksome.com
