@@ -18,8 +18,11 @@ github_username: jph00
 email: info@tooksome.com
 twitter_username: tooksome
 
+include: 
+  - /pitch.pdf
+
 # OPTIONAL: override baseurl and url if using a custom domain
-#url:  the base hostname & protocol for your site, e.g. http://example.com
+# url:  https://tooksome.com
 #baseurl: the subpath of your site, e.g. /blog
 
 # Set this to true to get LaTeX math equation support
