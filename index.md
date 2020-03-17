@@ -29,7 +29,7 @@ list.
 
 ## Support Tooksome
 
-To help support tooksome, [click this link](http://j.mp/tksm-amz) and then shop on Amazon — maybe stock up on [toilet paper](http://j.mp/tksm-amz-tp) or [a good book](http://j.mp/tksm-amz-bd4c). You don't pay any more than normal, and you don't have to buy any specific product we link to.
+To help support tooksome, [click this link](http://j.mp/tooksome-amazon) and then shop on Amazon — maybe stock up on [toilet paper](http://j.mp/tksm-amz-tp) or [a good book](http://j.mp/tksm-amz-bd4c). You don't pay any more than normal, and you don't have to buy any specific product we link to.
 
 ## Coming Soon
 
