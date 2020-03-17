@@ -1,6 +1,7 @@
 # Tooksome 
 
-## Running out of Toilet Paper Makes for a 💩💩💩 Day. Running out of product can run you out of business.
+## Running out of Toilet Paper Makes for a 💩💩💩 Day.
+## Running out of product can run you out of business.
 
 Tooksome helps businesses know what's in stock, order it, and be alerted before it runs out.
 
