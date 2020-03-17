@@ -29,7 +29,7 @@ list.
 
 ## Support Tooksome
 
-To help support tooksome, <a href="https://j.mp/tooksome-amazon" rel="sponsored">click this link</a> and then shop on Amazon — maybe stock up on [toilet paper](http://j.mp/tksm-amz-tp) or [a good book](http://j.mp/tksm-amz-bd4c). You don't pay any more than normal, and you don't have to buy any specific product we link to. We'll earn a few cents, but the main thing is that it improves access to the Amazon program interface for our robots.
+To help support tooksome, <a href="https://j.mp/tooksome-amazon" rel="sponsored">click this link</a> and then shop on Amazon — maybe stock up on [toilet paper](https://j.mp/tksm-amz-tp) or [a good book](https://j.mp/tksm-amz-bd4c). You don't pay any more than normal, and you don't have to buy any specific product we link to. We'll earn a few cents, but the main thing is that it improves access to the Amazon program interface for our robots.
 
 ## Coming Soon
 
